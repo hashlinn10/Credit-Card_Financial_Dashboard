@@ -5,4 +5,5 @@ I developed a comprehensive credit card weekly dashboard that provide real time 
 - Analyze weekly trends in credit card usage, including payment behavior, delinquency rates, and customer acquisition/attrition.
 - Provide actionable insights through real-time data visualization, allowing stakeholders to respond quickly to market trends and customer behavior changes.
 
-
+## Dataset Used
+ <a href = "https://github.com/hashlinn10/Hospitality-end-to-end-data-analytics-project/blob/main/input-files-1(1).zip">Dataset</a>
