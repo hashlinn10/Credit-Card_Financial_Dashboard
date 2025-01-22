@@ -10,3 +10,24 @@ I developed a comprehensive credit card weekly dashboard that provide real time 
  <a href = "https://github.com/hashlinn10/Credit-Card_Financial_Dashboard/blob/main/cust_add.csv">File2</a>
  <a href ="https://github.com/hashlinn10/Credit-Card_Financial_Dashboard/blob/main/credit_card.csv">File3</a>
  <a href = "https://github.com/hashlinn10/Credit-Card_Financial_Dashboard/blob/main/customer.csv">File4</a>
+
+## key Performance Indicators(KPI)
+Developed Dashboards with key matrices such as :
+- Revenue
+- Total Interest
+- Income
+- Customer Satisfaction Score
+- Total Transaction Amount
+
+## Process
+- Load Data into the SQL Database
+- Connect SQL Database to Power BI
+- Utilize DAX (Data Analysis Expressions) for Data Analysis
+- Clean and Filter the Data
+- Design and Build Interactive Dashboards
+- Derive Key Insights from the Dashboards
+
+## Dashboards
+![Screenshot (30)](https://github.com/user-attachments/assets/8b4b9e5e-a851-4880-beb0-9ac4012d197c)
+![Screenshot (31)](https://github.com/user-attachments/assets/c91d4029-d799-4c9b-b797-2600658f6459)
+
