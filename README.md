@@ -55,6 +55,6 @@ Overview YTD:
 - Texas, New York, and California together contributed 68% of the overall revenue, underscoring these states as key markets.
 - The activation rate stands at 57.5%, reflecting stable customer acquisition and onboarding.
 - The delinquent rate is at 6.0%, indicating effective credit risk management.
-This comprehensive analysis provides actionable insights into revenue growth, customer behavior, and market performance,
-helping stakeholders prioritize focus areas for sustained success.
+- This comprehensive analysis provides actionable insights into revenue growth, customer behavior, and market performance,
+  helping stakeholders prioritize focus areas for sustained success.
 
