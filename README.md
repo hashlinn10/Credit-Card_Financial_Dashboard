@@ -7,3 +7,6 @@ I developed a comprehensive credit card weekly dashboard that provide real time 
 
 ## Dataset Used
  <a href = "https://github.com/hashlinn10/Credit-Card_Financial_Dashboard/blob/main/cc_add.csv">File1</a>
+ <a href = "https://github.com/hashlinn10/Credit-Card_Financial_Dashboard/blob/main/cust_add.csv">File2</a>
+ <a href ="https://github.com/hashlinn10/Credit-Card_Financial_Dashboard/blob/main/credit_card.csv">File3</a>
+ <a href = "https://github.com/hashlinn10/Credit-Card_Financial_Dashboard/blob/main/customer.csv">File4</a>
